@@ -2,9 +2,9 @@
 #include <stdio.h>
 
 /**
- * * main - Print size of some types
- * * Return: 0
- * */
+ * main - Print size of some types
+ * Return: 0
+ */
 
 int main(void)
 {
