@@ -1,11 +1,11 @@
 #include<stdio.h>
 
 /**
- * printig using puts()
- * automaticaly creates a new line
+ * main - print mesaage and new line
+ * return: 0
  */
 
-int main()
+int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
 		return 0;
