@@ -1,7 +1,7 @@
 #include<stdio.h>
 
 /**
- * main - print a given message 
+ * main - Print a given message 
  * Return: 0
  */
 
