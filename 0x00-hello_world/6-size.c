@@ -1,9 +1,7 @@
 #include<stdio.h>
 
 /**
- * main - print a given message
- * and the size of different types 
- * compiled by c
+ * main - print a given message 
  * Return: 0
  */
 
