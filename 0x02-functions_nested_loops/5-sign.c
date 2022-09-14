@@ -2,6 +2,7 @@
 
 /**
  * print_sign - prints the sign of the number
+ * @n: the int to check
  * Return: 1 and print +ve if > 0 n is the number
  */
 
