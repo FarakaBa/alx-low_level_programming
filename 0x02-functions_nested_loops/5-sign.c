@@ -2,9 +2,7 @@
 
 /**
  * print_sign - prints the sign of the number
- * Return: 1 and print +ve if >0
- * Return: 0 and print 0 == 0
- * Return: -1 and print -ve if <0
+ * Return: 1 and print +ve if >0 else 0 and print 0 == 0 else -1 and print -ve if <0
  */
 
 int print_sign(int n)
@@ -14,7 +12,7 @@ int print_sign(int n)
 		_putchar('+');
 		return (1);
 	}
-	else if ( n == 0)
+	else if (n == 0)
 	{
 		_putchar(48);
 		return (0);
