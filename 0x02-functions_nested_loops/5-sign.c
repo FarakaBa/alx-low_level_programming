@@ -2,7 +2,7 @@
 
 /**
  * print_sign - prints the sign of the number
- * Return: 1 and print +ve if >0 else 0 and print 0 == 0 else -1 and print -ve if <0
+ * Return: 1 and print +ve if > 0 n is the number
  */
 
 int print_sign(int n)
