@@ -1,7 +1,7 @@
 nclude "main.h"
 
 /**
- * memset - Fill th first n bytes of the memory area pointed by s with the
+ * memset - Fill th first n bytes of the memory area point
  * constant byte b.
  * @s: Pointer to the memory area s.
  * @b: Constant byte.
